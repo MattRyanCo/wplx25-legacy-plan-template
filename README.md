@@ -1,89 +1,40 @@
 # Plano de Contingência - [Template para o WordCamp Lisboa 2025](https://lisboa.wordcamp.org/2025/session/plano-b-e-se-te-acontecer-algo-amanha/)
 
-  
+Contingency Plan - WordCamp Lisbon 2025 Template
+Introduction
+This contingency plan must be followed in case Fábio Nunes cannot continue to manage WPlus (death or total disability). The goal is to ensure the smooth transition and closure of the company's operations, with minimal impact to customers and partners.
 
-## Introdução
+1. Contact Backup Provider
+The first step is to contact the Backup Provider, who will be the primary contact for the customers' migration.
+Explain the situation and check if he is available to help with the migration of customers to a new supplier (this can be himself).
+If the Backup Provider is not available or does not want to continue with all clients, ask them to help migrate the remaining clients to another provider.
+Have prepared the list of all the websites managed by us on ClickUp, so that it can analyze before we contact customers.
+2. Cancel Invoices and Subscriptions
+Access ClickUp > Subscriptions and Recurring Invoices in Perfex CRM.
+Contacting customers with active subscriptions, explaining the situation and informing them that the charges will be suspended.
+Disable subscriptions and recurring invoices.
+For each subscription and invoice, ask the customer if they agree with the migration or change of supplier.
+3. Transfer Management to Backup Provider
+After confirming the customers who will continue with the service, provide the Backup Provider with the complete list of customers who have accepted the migration.
+For customers who do not accept, it will be their responsibility to find a new supplier.
+The Backup Provider shall contact each customer to coordinate the migration of services, cancel contracts, and move servers as needed.
+Have all the technical information accessible in ClickUp (domain, server, email, etc.) and ensure that the vendor has access to the necessary data.
+4. Cancellation of Recurring Expenses
+Access ClickUp and check all recurring expenses in the Expenses menu > Filter by Recurring.
+Identify and contact providers to cancel non-essential services.
+Start by canceling less critical expenses, but ensure that essential services such as servers are not canceled until all customers are migrated.
+5. Review Automatic Payments
+Check for ongoing automatic payments, such as charges directly to your business card or via automatic bank transfers.
+Ensure that these payments are canceled to avoid unnecessary charges. This action is essential to avoid unnecessary expenses after the closure of operations.
+6. Company Money Management
+Make sure there is money left in the company's account, and check other payment platforms like Stripe or other processors.
+Contact [Accountant] to discuss how to proceed with the management of the remaining funds. Instructions should be followed to ensure that everything is handled legally and properly.
+7. Termination of the Company
+The last step will be the formal closure of the company. The accountant should be consulted to ensure that all legal procedures are followed.
+It will provide you with all the necessary guidance on how to shut down operations correctly and avoid legal complications.
+Conclusion of the Contingency Plan
+This plan aims to ensure the smooth transition and closure of the company's operations with minimal impact to customers and partners.
 
-Este plano de contingência deve ser seguido caso o Fábio Nunes não possa continuar a gerir a WPlus (morte ou invalidez total). O objetivo é garantir a transição suave e o encerramento das operações da empresa, com o mínimo de impacto para os clientes e parceiros.
+It is essential that everything is documented and accessible so that, if something happens, customers are treated with respect and legal and financial obligations are met.
 
-* * *
-
-  
-
-## 1\. Contactar o Fornecedor de Backup
-
-*   O primeiro passo é entrar em contacto com o **Fornecedor de Backup**, que será o contacto principal para a migração dos clientes.
-*   Explicar a situação e verificar se ele está disponível para ajudar com a migração dos clientes para um novo fornecedor (pode ser ele próprio).
-*   Se o Fornecedor de Backup não estiver disponível ou não quiser continuar com todos os clientes, pedir-lhe para ajudar na migração dos restantes clientes para outro fornecedor.
-*   Ter preparada a lista de todos os websites geridos por nós no **ClickUp**, para que ele possa analisar antes de entrarmos em contacto com os clientes.
-
-* * *
-
-  
-
-## 2\. Cancelar as Faturas e Subscrições
-
-*   Aceder ao **ClickUp > Subscrições** e **Faturas Recorrentes** no Perfex CRM.
-*   **Entrar em contacto com os clientes** com subscrições ativas, explicar a situação e informar que os débitos serão suspensos.
-*   **Desativar** as subscrições e faturas recorrentes.
-*   Para cada subscrição e fatura, perguntar ao cliente se está de acordo com a migração ou mudança de fornecedor.
-
-* * *
-
-  
-
-## 3\. Transferir a Gestão para o Fornecedor de Backup
-
-*   Após confirmar os clientes que continuarão com o serviço, fornecer ao **Fornecedor de Backup** a **lista completa dos clientes** que aceitaram a migração.
-*   Para os clientes que não aceitarem, será responsabilidade deles encontrar um novo fornecedor.
-*   O Fornecedor de Backup deverá contactar cada cliente para coordenar a migração dos serviços, **cancelar contratos e mover servidores** conforme necessário.
-*   Ter todas as informações técnicas acessíveis no **ClickUp** (domínio, servidor, e-mail, etc.) e garantir que o fornecedor tenha acesso aos dados necessários.
-
-* * *
-
-  
-
-## 4\. Cancelamento de Despesas Recorrentes
-
-*   Aceder ao **ClickUp** e verificar todas as **despesas recorrentes** no menu **Despesas > Filter by Recurring**.
-*   Identificar e contactar os fornecedores para cancelar **serviços não essenciais**.
-*   Começar pelo cancelamento das despesas menos críticas, mas garantir que **serviços essenciais**, como servidores, não sejam cancelados até que todos os clientes sejam migrados.
-
-* * *
-
-  
-
-## 5\. Rever Pagamentos Automáticos
-
-*   Verificar se há **pagamentos automáticos** em curso, como cobranças diretamente no cartão da empresa ou via transferências bancárias automáticas.
-*   Garantir que esses pagamentos sejam **cancelados** para evitar cobranças desnecessárias. Esta ação é essencial para evitar gastos desnecessários após o encerramento das operações.
-
-* * *
-
-  
-
-## 6\. Gestão do Dinheiro da Empresa
-
-*   Certificar-se de que há **dinheiro remanescente** na conta da empresa, e verificar outras plataformas de pagamento como **Stripe** ou outros processadores.
-*   Contactar a **\[Contabilista\]** para discutir como proceder com a gestão dos fundos remanescentes. As instruções devem ser seguidas para garantir que tudo seja tratado de forma legal e adequada.
-
-* * *
-
-  
-
-## 7\. Encerramento da Empresa
-
-*   O último passo será o **encerramento formal da empresa**. O contabilista deverá ser consultado para garantir que todos os procedimentos legais sejam cumpridos.
-*   Ele fornecerá todas as orientações necessárias sobre como encerrar as operações de forma correta e evitar complicações legais.
-
-* * *
-
-  
-
-## Conclusão do Plano de Contingência
-
-Este plano visa garantir a **transição suave** e **fechamento das operações da empresa** com o mínimo de impacto para os clientes e parceiros.
-
-É fundamental que tudo esteja documentado e acessível para que, caso algo aconteça, os **clientes sejam tratados com respeito** e as obrigações legais e financeiras sejam cumpridas.
-
-Em caso de dúvidas, o **contabilista** deve ser o primeiro ponto de contacto para garantir a execução correta do plano.
+In case of doubts, the accounting officer should be the first point of contact to ensure the correct execution of the plan.
